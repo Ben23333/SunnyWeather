@@ -61,5 +61,5 @@ object Repository {
 
     fun getSavedPlace()=PlaceDao.getSavedPlace()
 
-    fun isPlaceSaved()=PlaceDao.isPlaceSaved()Q
+    fun isPlaceSaved()=PlaceDao.isPlaceSaved()
 }
